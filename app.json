@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "COVIC",
+    "description": "Lluita contra la violència domèstica.",
+    "slug": "snack-35f90a3e-1987-4730-891d-a36fc7e7c9f9",
+    "privacy": "unlisted",
+    "sdkVersion": "37.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/HAND.png",
+    "splash": {
+      "image": "./assets/SPLASHSCREEN.png",
+      "backgroundColor": "#CC5851"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.carlesgrauvila.covic",
+      "versionCode": 1
+    }
+  }
+}
